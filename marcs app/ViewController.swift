@@ -3,7 +3,7 @@
 //  marcs app
 //
 //  Created by Marc Verhagen on 16-09-17.
-//  Copyright © 2017 Marc Verhagen. All rights reserved.
+//  Copyright © 2017 Marc Verhagen. All rights reserved..
 //
 
 import UIKit
